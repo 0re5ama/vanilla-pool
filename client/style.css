@@ -1,0 +1,48 @@
+html.update-style body {
+    padding: 0;
+}
+
+.main-container .main-content-column {
+    width: 100%;
+    max-width: 100%;
+}
+
+.team-template-image-legacy.team-template-lightmode {
+    font-weight: 900;
+    font-size: 1.5em;
+}
+
+.crosstable th.player-id {
+    padding: .3em;
+}
+
+.groups {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+@media screen and (max-width: 420px) {
+    .groups {
+        grid-template-columns: 1fr;
+    }
+}
+
+.team-template-team-standard {
+    display: flex;
+    align-items: center;
+    gap: .2em;
+}
+
+.loading {
+    background-color: #ddd;
+}
+
+.crosstable-tr th, .crosstable-tr td {
+  width: 5em;
+}
+
+/*
+.brkts-matchlist-cell:hover {
+    background-color: #cce3ff;
+}
+*/

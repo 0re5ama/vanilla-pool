@@ -1,0 +1,43 @@
+insert into games (p1id, p2id) values ('A1', 'A2');
+insert into games (p1id, p2id) values ('A1', 'A3');
+insert into games (p1id, p2id) values ('A1', 'A4');
+insert into games (p1id, p2id) values ('A1', 'A5');
+insert into games (p1id, p2id) values ('A2', 'A3');
+insert into games (p1id, p2id) values ('A2', 'A4');
+insert into games (p1id, p2id) values ('A2', 'A5');
+insert into games (p1id, p2id) values ('A3', 'A4');
+insert into games (p1id, p2id) values ('A3', 'A5');
+insert into games (p1id, p2id) values ('A4', 'A5');
+
+insert into games (p1id, p2id) values ('B1', 'B2');
+insert into games (p1id, p2id) values ('B1', 'B3');
+insert into games (p1id, p2id) values ('B1', 'B4');
+insert into games (p1id, p2id) values ('B1', 'B5');
+insert into games (p1id, p2id) values ('B2', 'B3');
+insert into games (p1id, p2id) values ('B2', 'B4');
+insert into games (p1id, p2id) values ('B2', 'B5');
+insert into games (p1id, p2id) values ('B3', 'B4');
+insert into games (p1id, p2id) values ('B3', 'B5');
+insert into games (p1id, p2id) values ('B4', 'B5');
+
+insert into games (p1id, p2id) values ('C1', 'C2');
+insert into games (p1id, p2id) values ('C1', 'C3');
+insert into games (p1id, p2id) values ('C1', 'C4');
+insert into games (p1id, p2id) values ('C1', 'C5');
+insert into games (p1id, p2id) values ('C2', 'C3');
+insert into games (p1id, p2id) values ('C2', 'C4');
+insert into games (p1id, p2id) values ('C2', 'C5');
+insert into games (p1id, p2id) values ('C3', 'C4');
+insert into games (p1id, p2id) values ('C3', 'C5');
+insert into games (p1id, p2id) values ('C4', 'C5');
+
+insert into games (p1id, p2id) values ('D1', 'D2');
+insert into games (p1id, p2id) values ('D1', 'D3');
+insert into games (p1id, p2id) values ('D1', 'D4');
+insert into games (p1id, p2id) values ('D1', 'D5');
+insert into games (p1id, p2id) values ('D2', 'D3');
+insert into games (p1id, p2id) values ('D2', 'D4');
+insert into games (p1id, p2id) values ('D2', 'D5');
+insert into games (p1id, p2id) values ('D3', 'D4');
+insert into games (p1id, p2id) values ('D3', 'D5');
+insert into games (p1id, p2id) values ('D4', 'D5');
